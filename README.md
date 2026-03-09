@@ -1,5 +1,6 @@
 Repository structure and deployment scripts for a full DFIR log ingestion platform with Terraform + Docker Compose for automatic VPS provisioning and stack setup.
 
+
 ---
 
 # dfir-log-api
