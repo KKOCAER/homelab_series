@@ -247,4 +247,3 @@ dfir-log-api/
   "extra": {"key":"value"}
 }
 This ensures every log source can be normalized and searchable in OpenSearch / SIEM.
-
